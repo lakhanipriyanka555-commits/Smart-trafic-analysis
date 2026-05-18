@@ -39,7 +39,7 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-Open **http://localhost:8501** in your browser.
+Open **https://smart-trafic-analysis-gf5eucytj9vmyg5utbehbn.streamlit.app/** in your browser.
 
 ---
 
